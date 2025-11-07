@@ -30,7 +30,7 @@ public class ArrayNilaiMahasiswa26 {
         
         double rataRata = (double) total / jumlah;
 
-        System.out.println("\n--- HASIL NILAI MAHASISWA ---");
+        System.out.println("\n HASIL NILAI MAHASISWA ");
         System.out.println("Daftar nilai mahasiswa:");
         for (int i = 0; i < jumlah; i++) {
             System.out.println("Mahasiswa ke-" + (i + 1) + ": " + nilaiMhs[i]);
