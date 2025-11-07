@@ -5,7 +5,7 @@ public class ArrayMenuCafe26 {
 
         String[] menu = {"Nasi Goreng", "Mie Goreng", "Roti Bakar", "Kentang Goreng", "Teh Tarik", "Cappucino", "Chocolate Ice"};
 
-        System.out.println("-- MENU KAFE --");
+        System.out.println(" MENU KAFE ");
         for (int i = 0; i < menu.length; i++) {
             System.out.println((i + 1) + ". " + menu[i]);
         }
